@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="650" height="473" alt="_" src="https://github.com/user-attachments/assets/5648f102-d15a-4521-a245-6de8a1b93606" />
+
 
 <!--
 **Vixym/vixym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
