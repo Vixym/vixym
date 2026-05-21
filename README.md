@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5648f102-d15a-4521-a245-6de8a1b93606" width="325" />
-</p>
-
-<p align="center">
-  ~Systems engineering is cool~
+  <img
+    src="https://github.com/user-attachments/assets/5afc635e-6ee6-4f58-beaa-4812b9970488"
+    width="100%"
+    height="100"
+    style="object-fit: cover;"
+  />
 </p>
 <!--
 **Vixym/vixym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
